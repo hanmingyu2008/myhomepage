@@ -6,4 +6,6 @@ To be honest, it isn't necessary and common to have a homapage at my age, but wh
 
 Now, let's start from the content below!
 
+* [My Short Reseme](reseme/reseme.md)
 * [My Possible Future Research Interest](interest/interest.md)
+* [My Hobbies](hobby/hobby.md)
