@@ -9,3 +9,4 @@ Now, let's start from the content below!
 * [My Short Reseme](reseme/reseme.md)
 * [My Possible Future Research Interest](interest/interest.md)
 * [My Hobbies](hobby/hobby.md)
+* [Courses and Knowledges](course/course.md)
