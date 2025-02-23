@@ -30,3 +30,4 @@
     * [Numerical Linear Algebra](course/NLA.md)
     * [Introduction to Computation](course/ItC.md)
     * [Data Structures and Algorithms](course/DSA.md)
+
