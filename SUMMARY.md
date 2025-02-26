@@ -8,6 +8,7 @@
     * [Computer Graphics and Physical Simulation](interest/CGPS.md)
     * [Computational Engineering](interest/CE.md)
     * [Quantum Computing](interest/QC.md)
+    * [Machine Learning and Artificial Intelligence](interest/MLAI.md)
 * [My Hobbies](hobby/hobby.md)
     * [Linguistics](Linguistics/Linguistics.md)
         * [Persian/Farsi](Linguistics/persian.md)
