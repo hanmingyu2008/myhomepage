@@ -14,4 +14,4 @@ In my long-time discovering and seeking, I found that I might be interested in f
 * [Machine Learning and Artificial Intelligence](MLAI.md)
 
 However, I haven't even dive deeply into even one of those subjects to take a quick glimpse into its beauty.
- This means that I might not be really ready to study and research at least at present.
+ This means that I might not be really ready to study and research at least at present. In fact, I will always be on the stage of learning those frontier techniques.
