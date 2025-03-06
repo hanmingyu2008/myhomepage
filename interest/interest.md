@@ -1,4 +1,17 @@
-# Possible Furture Research Interest
+# Learning and Possible Research Interest in Future
+
+## Learning Inerest
+For the learning part, I'm going to list many courses I've learned in various fields, and are useful for the future research.The following are the fields to be included.
+
+* [Computational Mathematics](ComputMath.md)
+* [Statistics and Financial Mathematics](StaFinMath.md)
+
+* [Basic Computer Skills](ComputerBasic.md)
+* [Advanced Computer Skills](Computer.md)
+* [Advanced Computing Technology](AdvancedComp.md)
+* [Artificial Intelligence](ArtiIntell.md)
+
+## Future Research Interest
 
 I'm now interested in Computational Mathematics, and those traditional Numerical Methods developed to solve Differential Equations generated from physical and engineering problems. However, I discovered that, 
 under the overwhelming developing of machine learning and artificial intelligence, this traditional field and subject with a not long
