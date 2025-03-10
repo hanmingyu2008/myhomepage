@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [My Short Reseme](reseme/reseme.md)
-* [Possible Furture Research Interest](interest/interest.md)
+* [Learning and Possible Research Interest](interest/interest.md)
     * [Computational Mathematics](interest/ComputMath.md)
     * [Statistics and Financial Mathematics](interest/StaFinMath.md)
     * [Basic Computer Skills](interest/ComputerBasic.md)
@@ -15,6 +15,7 @@
     * [Computational Engineering](interest/CE.md)
     * [Quantum Computing](interest/QC.md)
     * [Machine Learning and Artificial Intelligence](interest/MLAI.md)
+    * [HPCGame2th](interest/HPCGame2th.md)
 * [My Hobbies](hobby/hobby.md)
     * [Linguistics](Linguistics/Linguistics.md)
         * [Persian/Farsi](Linguistics/persian.md)

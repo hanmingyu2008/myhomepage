@@ -1,1 +1,1 @@
-# Japanese
+# Japanese 日本語
